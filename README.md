@@ -1,5 +1,5 @@
 # MICROPROCESSOR MIDTERM PROJECT
-This project was given by "Mustafa Berkan Biçer" for our midterm exam. <br/>
+This project was given us by "Mustafa Berkan Biçer" for our midterm exam. <br/>
 This project had some rules: <br/> 
 • A program that writes text and simple graphics to an 8x8 dot matrix screen. <br/>
 • Ask the user to enter text or graphical data. <br/>
